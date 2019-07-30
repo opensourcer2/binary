@@ -1,3 +1,4 @@
-# Binary of VS2017 Community
+# Binary of Visual Studio
+### Available version
 
-Version: 15.9.14
+- 2017
